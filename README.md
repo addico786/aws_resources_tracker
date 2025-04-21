@@ -50,4 +50,4 @@ crontab -e
 35 9 * * * the path to your file  >> the path where you want to save the logs and error logs 2>&1
 ```
 ##note
-2>&1 this means redirecting the error ouput also to the standard output 
+2>&1 this means redirecting the error ouput also to the standard output.
